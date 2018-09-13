@@ -1,0 +1,389 @@
+body {
+    margin: 0 auto;
+    font-family: 'Dancing Script', cursive;
+}
+
+.nav-bar {
+    background-color: white;
+    height: 60px;
+    width:  100%;
+}
+
+.logo {
+    height: 55px;
+    /*width:  55px;*/
+    padding-left: 7px;
+    padding-top:  2px;
+}
+
+.nav-list {
+    margin: 0 auto;
+    margin-top:   10px;
+    margin-right: 30px;
+    float: right;
+}
+
+.list-item {
+    display: inline;
+    padding-right: 25px;
+}
+
+.list-item a {
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+}
+
+.list-item a:hover {
+    color: #5c6670;
+}
+
+.banner {
+    background-image: url('../images/white-trees-11.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    width:  100%;
+    position: relative;
+}
+
+
+.banner-text-background {
+    height: 100px;
+    width:  300px;
+    /*background-color: #bfbfbf;*/
+    position: absolute;
+    top:  25px;
+    left: 40%;
+    /*border-radius: 50%;*/
+    text-align: center;
+}
+
+
+
+.banner-text {
+   color:fff;
+    margin-bottom: 20px;
+    /*text-shadow: 2px 2px 10px #000000;*/
+}
+
+.container {
+    width: 100%;
+    height: 406px;
+    position: relative;
+    overflow: hidden;
+    margin-top: 25px;
+}
+
+.column-one {
+    width: 44.5%;
+    height: 400px;
+    border: 3px #e6e6e6 solid;
+   /* float: left;*/
+    position: absolute;
+    margin-left: 10px;
+}
+
+.column-two {
+    width:20%;
+    border: 3px #e6e6e6 solid;
+    /*float: left;*/
+    position: absolute;
+    left: 50%;
+    margin-left: 10px;
+}
+
+.column-three {
+    width: 23%;
+    height: 400px;
+    border: 3px #e6e6e6 solid;
+    position: absolute;
+    right: 1%;
+}
+
+
+.mom {
+    width: 600px;
+    height: 400px;
+}
+
+.cousin {
+    width: 100%;
+    height: 400px;
+}
+
+.col-text {
+    padding: 15px;
+}
+
+/***********Contact Styles***********/
+
+.map-heading {
+    margin-top: 100px;
+}
+
+.map {
+    overflow: hidden;
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+
+
+.map-border {
+    border: 5px solid #bfbfbf !important;
+    height:450px;
+    width: 600px;
+    display: inline-block;
+    
+}
+
+.contact-form {
+    margin: 0 auto;
+    width: 600px;
+    height: 450px;
+    border: 3px solid #bfbfbf;
+    margin-top: 30px;
+}
+
+.footer {
+    background-color: #e6e6e6;
+    height: 100px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.footer-col {
+    width: 33%;
+    height: 30px;
+    display: inline-block;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.fa-facebook-square {
+    color: #3B5998;
+}
+
+.fa-twitter-square {
+    margin-left: 15px;
+}
+
+.copyright {
+    font-weight: 700;
+}
+
+/***********About Styles***********/
+
+.container-about {
+    width: 100%;
+    height: 450px;
+    position: relative;
+    overflow: hidden;
+    margin-top: 25px;
+}
+
+.column-one-about {
+    width: 25%;
+    height: 400px;
+    border: 3px #e6e6e6 solid;
+   /* float: left;*/
+    position: absolute;
+    margin-left: 10px;
+}
+
+.me {
+    width: 337px;
+    height: 400px;
+}
+
+.column-two-about {
+    width: 30%;
+    border: 3px #e6e6e6 solid;
+    /*float: left;*/
+    position: absolute;
+    left: 25%;
+    margin-left: 50px;
+}
+
+.column-three-about {
+    width: 37%;
+    height: 400px;
+    border: 3px #e6e6e6 solid;
+    position: absolute;
+    right: 1%;
+}
+
+.dad-water {
+    width: 500px;
+    height: 400px;
+}
+
+
+
+
+
+
+.about-col {
+    display: inline-block;
+    height: 400px;
+    width: 32%;
+    border: 3px solid #e6e6e6;
+    text-align: center;
+}
+
+.pic {
+    /*position: absolute;*/
+    left: 0;
+}
+
+.audio {
+    position: absolute;
+    left: 33%;
+}
+
+.video {
+    position: absolute;
+    left: 66%;
+}
+
+
+
+
+
+/***************Gallery Styles***************/
+
+.container-gallery {
+    width: 100%;
+    height: 1335px;
+    position: relative;
+    overflow: hidden;
+    margin-top: 25px;
+}
+
+.column-one-gallery {
+    width: 23%;
+    height: 425px;
+    border: 3px #e6e6e6 solid;
+   /* float: left;*/
+    position: absolute;
+    margin-left: 10px;
+}
+
+.gia {
+    width: 310px;
+    height: 425px;
+}
+
+.column-two-gallery {
+    width: 250px;
+    height: 425px;
+    border: 3px #e6e6e6 solid;
+    /*float: left;*/
+    position: absolute;
+    left: 25%;
+    margin-left: 50px;
+}
+
+.pink-bow {
+    width: 250px;
+    height: 425px;
+}
+
+.column-three-gallery {
+    width: 250px;
+    height: 425px;
+    border: 3px #e6e6e6 solid;
+    position: absolute;
+    left: 53%;
+    /*right: 1%;*/
+}
+
+.pink-tutu {
+    width: 250px;
+    height: 425px;
+}
+
+.column-four-gallery {
+    width: 23%;
+    height: 425px;
+    border: 3px #e6e6e6 solid;
+    position: absolute;
+    left: 76%;
+    right: 10px;
+}
+
+.sister-garden-pic {
+    width: 310px;
+    height: 425px;
+}
+
+.column-five-gallery {
+    width: 40%;
+    height: 375px;
+    border: 3px #e6e6e6 solid;
+    position: absolute;
+    top: 500px;
+    left: 7%;
+}
+
+.sister-cap {
+    width: 540px;
+    height: 375px;
+}
+
+.column-six-gallery {
+    width: 40%;
+    height: 375px;
+    border: 3px #e6e6e6; solid;
+    position: absolute;
+    top: 500px;
+    right: 7%;
+}
+
+.colton-tux {
+    width:540px;
+    height: 375px;
+}
+
+.column-seven-gallery {
+    width: 27%;
+    height: 425px;
+    border: 3px #e6e6e6 solid;
+    position: absolute;
+    Left: 10px;
+    top: 900px;
+}
+
+.omar-brown {
+    width: 364px;
+    height: 425px;
+}
+
+.column-eight-gallery {
+    width: 27%;
+    height: 425px;
+    border: 3px #e6e6e6 solid;
+    position: absolute;
+    top: 900px;
+    right: 36%;
+}
+
+.baby-gilli-bw {
+    width: 364px;
+    height: 425px;
+}
+
+.column-nine-gallery {
+    width: 27%;
+    height: 425px;
+    border: 3px #e6e6e6 solid;
+    position: absolute;
+    top: 900px;
+    right: 10px;
+}
+
+.gwen-blue {
+    width: 364px;
+    height: 425px;
+}
