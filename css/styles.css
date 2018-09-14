@@ -151,7 +151,7 @@ body {
     background-color: #e6e6e6;
     height: 100px;
     width: 100%;
-    margin-top: 30px;
+    margin-top: 0px;
 }
 
 .footer-col {
@@ -219,11 +219,6 @@ body {
     width: 500px;
     height: 400px;
 }
-
-
-
-
-
 
 .about-col {
     display: inline-block;
@@ -324,7 +319,7 @@ body {
     height: 375px;
     border: 3px #e6e6e6 solid;
     position: absolute;
-    top: 500px;
+    top: 465px;
     left: 7%;
 }
 
@@ -338,7 +333,7 @@ body {
     height: 375px;
     border: 3px #e6e6e6; solid;
     position: absolute;
-    top: 500px;
+    top: 465px;
     right: 7%;
 }
 
@@ -353,7 +348,7 @@ body {
     border: 3px #e6e6e6 solid;
     position: absolute;
     Left: 10px;
-    top: 900px;
+    top: 877px;
 }
 
 .omar-brown {
@@ -366,7 +361,7 @@ body {
     height: 425px;
     border: 3px #e6e6e6 solid;
     position: absolute;
-    top: 900px;
+    top: 877px;
     right: 36%;
 }
 
@@ -380,7 +375,7 @@ body {
     height: 425px;
     border: 3px #e6e6e6 solid;
     position: absolute;
-    top: 900px;
+    top: 877px;
     right: 10px;
 }
 
