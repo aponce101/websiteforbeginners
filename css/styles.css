@@ -258,6 +258,16 @@ body {
 
 
 /***************Gallery Styles***************/
+.banner-backyard-fence-gallery {
+    background-image: url('../images/backyard-purple-flower-1.jpg');
+    background-size: cover;
+    /*background-position: center;*/
+    height: 1360px;
+    width:  100%;
+    position: absolute;
+}
+
+
 
 .container-gallery {
     width: 100%;
