@@ -67,7 +67,7 @@ body {
 }
 
 .container {
-    width: 100%;
+    width:  100%;
     height: 406px;
     position: relative;
     overflow: hidden;
@@ -84,31 +84,31 @@ body {
 }
 
 .column-two {
-    width:41.5%;
+    width:  41.5%;
     height: 370px;
     border: 3px #e6e6e6 solid;
     /*float: left;*/
     position: absolute;
-    left: 35%;
+    left:   35%;
     margin-left: 10px;
 }
 
 .column-three {
-    width: 20%;
+    width:  20%;
     height: 400px;
     border: 3px #e6e6e6 solid;
     position: absolute;
-    right: 1%;
+    right:  1%;
 }
 
 
 .mom {
-    width: 452px;
+    width:  452px;
     height: 400px;
 }
 
 .cousin {
-    width: 100%;
+    width:  100%;
     height: 400px;
 }
 
@@ -134,15 +134,15 @@ body {
 
 .map-border {
     border: 5px solid #bfbfbf !important;
-    height:450px;
-    width: 600px;
+    height: 450px;
+    width:  600px;
     display: inline-block;
     
 }
 
 .contact-form {
     margin: 0 auto;
-    width: 600px;
+    width:  600px;
     height: 450px;
     border: 3px solid #bfbfbf;
     margin-top: 30px;
@@ -151,12 +151,12 @@ body {
 .footer {
     background-color: #e6e6e6;
     height: 100px;
-    width: 100%;
+    width:  100%;
     margin-top: 30px;
 }
 
 .footer-col {
-    width: 33%;
+    width:  33%;
     height: 30px;
     display: inline-block;
     margin-top: 30px;
@@ -187,7 +187,7 @@ body {
 }
 
 .container-about {
-    width: 100%;
+    width:  100%;
     height: 450px;
     position: relative;
     overflow: hidden;
@@ -195,48 +195,48 @@ body {
 }
 
 .column-one-about {
-    width: 25%;
+    width:  22.5%;
     height: 400px;
     border: 3px #e6e6e6 solid;
    /* float: left;*/
     position: absolute;
-    margin-left: 10px;
+    margin-left: 30px;
     margin-top: 20px;
 }
 
 .me {
-    width: 342px;
+    width:  304px;
     height: 400px;
 }
 
 .column-two-about {
-    width: 30%;
+    width:  30%;
     border: 3px #e6e6e6 solid;
     /*float: left;*/
     position: absolute;
-    left: 25%;
+    left:   25%;
     margin-left: 50px;
-    margin-top: 37px;
+    margin-top:  37px;
 }
 
 .column-three-about {
-    width: 37%;
+    width:  34.5%;
     height: 400px;
     border: 3px #e6e6e6 solid;
     position: absolute;
-    right: 1%;
+    right:  30px;
     margin-top: 20px;
 }
 
 .dad-water {
-    width: 500px;
+    width:  464px;
     height: 400px;
 }
 
 .about-col {
     display: inline-block;
     height: 400px;
-    width: 32%;
+    width:  32%;
     border: 3px solid #e6e6e6;
     text-align: center;
     font-weight: 900;
@@ -257,11 +257,8 @@ body {
     left: 66%;
 }
 
-
-
-
-
 /***************Gallery Styles***************/
+
 /*.banner-backyard-fence-gallery {
     background-image: url('../images/backyard-purple-flower-1.jpg');
     background-size: cover;
@@ -271,10 +268,8 @@ body {
     position: absolute;
 }*/
 
-
-
 .container-gallery {
-    width: 100%;
+    width:  100%;
     height: 1335px;
     position: relative;
     overflow: hidden;
@@ -282,7 +277,7 @@ body {
 }
 
 .column-one-gallery {
-    width: 23%;
+    width:  23%;
     height: 425px;
     border: 3px #e6e6e6 solid;
    /* float: left;*/
@@ -291,12 +286,12 @@ body {
 }
 
 .gia {
-    width: 310px;
+    width:  310px;
     height: 425px;
 }
 
 .column-two-gallery {
-    width: 250px;
+    width:  250px;
     height: 425px;
     border: 3px #e6e6e6 solid;
     /*float: left;*/
@@ -306,113 +301,114 @@ body {
 }
 
 .pink-bow {
-    width: 250px;
+    width:  250px;
     height: 425px;
 }
 
 .column-three-gallery {
-    width: 250px;
+    width:  250px;
     height: 425px;
     border: 3px #e6e6e6 solid;
     position: absolute;
-    left: 53%;
+    left:   53%;
     /*right: 1%;*/
 }
 
 .pink-tutu {
-    width: 250px;
+    width:  250px;
     height: 425px;
 }
 
 .column-four-gallery {
-    width: 23%;
+    width:  23%;
     height: 425px;
     border: 3px #e6e6e6 solid;
     position: absolute;
-    left: 76%;
-    right: 10px;
+    left:   76%;
+    right:  10px;
 }
 
 .sister-garden-pic {
-    width: 310px;
+    width:  310px;
     height: 425px;
 }
 
 .column-five-gallery {
-    width: 40%;
+    width:  40%;
     height: 375px;
     border: 3px #e6e6e6 solid;
     position: absolute;
-    top: 465px;
-    left: 7%;
+    top:    465px;
+    left:   7%;
 }
 
 .sister-cap {
-    width: 540px;
+    width:  540px;
     height: 375px;
 }
 
 .column-six-gallery {
-    width: 40%;
+    width:  40%;
     height: 375px;
     border: 3px #e6e6e6; solid;
     position: absolute;
-    top: 465px;
-    right: 7%;
+    top:    465px;
+    right:  7%;
 }
 
 .colton-tux {
-    width:540px;
+    width:  540px;
     height: 375px;
 }
 
 .column-seven-gallery {
-    width: 27%;
+    width:  27%;
     height: 425px;
     border: 3px #e6e6e6 solid;
     position: absolute;
-    Left: 10px;
-    top: 877px;
+    Left:   10px;
+    top:    877px;
 }
 
 .omar-brown {
-    width: 364px;
+    width:  364px;
     height: 425px;
 }
 
 .column-eight-gallery {
-    width: 27%;
+    width:  27%;
     height: 425px;
     border: 3px #e6e6e6 solid;
     position: absolute;
-    top: 877px;
-    right: 36%;
+    top:    877px;
+    right:  36%;
 }
 
 .baby-gilli-bw {
-    width: 364px;
+    width:  364px;
     height: 425px;
 }
 
 .column-nine-gallery {
-    width: 27%;
+    width:  27%;
     height: 425px;
     border: 3px #e6e6e6 solid;
     position: absolute;
-    top: 877px;
-    right: 10px;
+    top:    877px;
+    right:  10px;
 }
 
 .gwen-blue {
-    width: 364px;
+    width:  364px;
     height: 425px;
 }
 
 
 /**********Testamonials Styles**********/
+
 .container-testamonials {
-    width: 100%;
-    height: 1020px;
+    width:  100%;
+    height: 1040px;
     position: relative;
     overflow: hidden;
     margin-top: 25px;
@@ -427,16 +423,16 @@ body {
    /* float: left;*/
     /*position: absolute;*/
     margin-left: 280px;
-    margin-top: 20px;
-    font-size: 17px;
+    margin-top:  20px;
+    font-size:   17px;
 }
 
 .joseph {
     float: left;
-    width: 200px;
+    width:  200px;
     height: 280px;
     border-radius: 35%;
-    margin-top: 15px;
+    margin-top:    15px;
 }
 
 /*.container-two-testamonials {
@@ -449,39 +445,39 @@ body {
 }*/
 
 .column-two-testamonials {
-    width: 60%;
+    width:  60%;
     height: 312px;
     border: 3px #e6e6e6 solid;
     background-color: #eee;
     /*position: absolute;*/
     margin-left: 280px;
-    margin-top:20px;
-    font-size: 17px;
+    margin-top:  20px;
+    font-size:   17px;
 }
 
 .sylvia-and-johnny-bw {
     float: left;
-    width: 200px;
+    width:  200px;
     height: 280px;
     border-radius: 35%;
-    margin-top: 20px;
+    margin-top:    20px;
 }
 
 .column-three-testamonials {
-    width: 60%;
+    width:  60%;
     height: 312px;
     border: 3px #e6e6e6 solid;
     background-color: #eee;
     /*position: absolute;*/
     margin-left: 280px;
-    margin-top:20px;
-    font-size: 17px;
+    margin-top:  20px;
+    font-size:   17px;
 }
 
 .christine-graduation-pink-1 {
     float: left;
-    width: 200px;
+    width:  200px;
     height: 280px;
     border-radius: 35%;
-    margin-top: 20px;
+    margin-top:    20px;
 }
